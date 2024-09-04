@@ -1,0 +1,31 @@
+.set-container {
+  height: 80vh;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(179, 191, 158);
+  border-radius: 10px;
+  padding: 20px;
+}
+.label-text {
+  color: black;
+  font-size: 35px;
+  font-weight: bold;
+}
+.set {
+  color: rgb(9, 24, 31);
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  text-decoration: 1px underline rgb(23, 24, 28);
+}
+.select-con {
+  width: 200px;
+  padding: 10px;
+  font-size: 20px;
+  border: 0;
+  border-radius: 10px;
+  margin-left: 10px;
+}

@@ -1,0 +1,36 @@
+.container-of-head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.icons {
+  color: white;
+  font-size: 30px;
+  padding-right: 8px;
+}
+.app {
+  text-align: center;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  background-color: #102733;
+  padding: 15px;
+  border-radius: 10px;
+}
+.list a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.list a:hover {
+  text-decoration: underline;
+  color: rgb(75, 189, 209);
+}
+
+.icons:hover {
+  color: rgb(75, 189, 209);
+  font-size: 20px;
+  padding-right: 8px;
+}
